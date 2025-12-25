@@ -24,7 +24,7 @@ from integrations.hubspot import (
     delete_hubspot_credentials
 )
 
-
+#app
 app = FastAPI()
 
 origins = ["http://localhost:3000"]
